@@ -26,8 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
 				<button class="btn btn-danger mb-1 ml-1">eliminar</button>
 			</td>
 			`
-		titleB.innerHTML = title.value;
-		descriptionB.innerHTML = description.value;
 		}
 	});
 });
