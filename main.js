@@ -3,8 +3,6 @@ document.addEventListener('DOMContentLoaded', function() {
 	const title = document.getElementById('title');
 	const description = document.getElementById('description');
 	const table = document.getElementById('table');
-	const titleB = document.getElementById('titleB');
-	const descriptionB = document.getElementById('descriptionB');
 	const alert = document.getElementById('alert');
 	let id = 0;
 
